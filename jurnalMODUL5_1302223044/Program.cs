@@ -1,3 +1,4 @@
+
 ﻿using System.Data.Common;
 
 internal class Program
@@ -22,3 +23,4 @@ internal class Program
         penjumlahan.jumlahTigaAngka<double>(12.0,34.0,56.0);
     }
 }
+
